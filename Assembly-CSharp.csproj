@@ -45,47 +45,28 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\DataConnector.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\MFEvent.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\SceneNavigation\MFSceneNavigationEnums.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\DataSerializationService.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\SceneNavigation\SceneNavigationManager.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Initializer.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\Events\Enums\MFInternalServicesEvent.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Systems\GameManager.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\SceneNavigation\SceneTransitionUtility.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\LocallyStoredDataObject.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\MFLocalStorageObject.cs" />
      <Compile Include="Assets\Scripts\MessagePipeDemo.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\DataManager.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Session\SessionData.cs" />
      <Compile Include="Assets\Scripts\Testing\TestBehaviours.cs" />
-     <Compile Include="Assets\Scripts\Garaa\Data\CustomDataClasses\UserData\UserDataConnector.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\MFData.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\EventRegistrationHelper.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Systems\GameLifetimeScope.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\SceneNavigation\SceneTransitionController.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\DataInstanceProvider.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Data\DataManagerDirectoryHelper.cs" />
      <Compile Include="Assets\Scripts\Infrastructure\Services\MFService.cs" />
-     <Compile Include="Assets\Scripts\Infrastructure\Services\Session\SessionManager.cs" />
-     <Compile Include="Assets\Scripts\Garaa\Data\CustomDataClasses\UserData\UserData.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Scripts\Infrastructure\Services\SceneNavigation" />
-     <Folder Include="Assets\Scripts\Garaa\Data\CustomDataClasses\UserData" />
      <Folder Include="Assets\Scripts\Testing" />
      <Folder Include="Assets\Scenes" />
-     <Folder Include="Assets\Scripts\Infrastructure\Services\Data" />
      <Folder Include="Assets\Scripts\Infrastructure\Services\Events\Enums" />
      <Folder Include="Assets\Scripts\Infrastructure" />
      <Folder Include="Assets\Scripts\Infrastructure\Services\Events" />
-     <Folder Include="Assets\Scripts\Garaa\Data" />
      <Folder Include="Assets\Scripts\Infrastructure\Services" />
      <Folder Include="Assets\Scripts\Infrastructure\Systems" />
-     <Folder Include="Assets\Scripts\Infrastructure\Services\Session" />
-     <Folder Include="Assets\Scripts\Garaa\Data\CustomDataClasses" />
      <Folder Include="Assets\Scripts" />
-     <Folder Include="Assets\Scripts\Garaa" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>

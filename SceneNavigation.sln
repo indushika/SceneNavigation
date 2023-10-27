@@ -5,9 +5,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagePipe", "MessagePipe.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Linq", "UniTask.Linq.csproj", "{7eb47126-2dbd-eb9c-8ff1-4b535172f322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask", "UniTask.csproj", "{d62ba6ad-6b71-534a-f4c0-024240bae45c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{49b7ce5a-0015-c77c-ede3-855336496f47}"
 EndProject
@@ -34,10 +34,10 @@ Global
 		{a9ac1fe7-fc8f-6cde-1437-c850a1f8261b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7eb47126-2dbd-eb9c-8ff1-4b535172f322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7eb47126-2dbd-eb9c-8ff1-4b535172f322}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{d62ba6ad-6b71-534a-f4c0-024240bae45c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{d62ba6ad-6b71-534a-f4c0-024240bae45c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8bd32b7c-b5ec-f763-e7e9-37c4b6c59285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49b7ce5a-0015-c77c-ede3-855336496f47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49b7ce5a-0015-c77c-ede3-855336496f47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56da0152-b04f-1972-c993-ef1f502ab10c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
