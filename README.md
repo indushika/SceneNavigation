@@ -16,5 +16,6 @@ Scene Navigation Controller
     - Unitask: https://github.com/Cysharp/UniTask 
 
     - DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676 
+    (However for DOTween support, after importing from the DOTWeen assets and define the scripting define symbol UNITASK_DOTWEEN_SUPPORT to enable it)
 
     - Newton JSON for Unity: Windows->Package Manager, once the Package Manager window opens, go to Add package from git URL, type com.unity.nuget.newtonsoft-json
